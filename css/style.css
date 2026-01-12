@@ -1,0 +1,15 @@
+header {
+    background-color: #1b2a39;
+}
+body {
+    background-color: #1b2a39;
+    color: #ffffff;
+}
+
+.container {
+  max-width: 992px;
+}
+
+.btn {
+    background-color: #7ed4ef;
+}
