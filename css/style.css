@@ -71,3 +71,20 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+.avatar-testimonials {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.avatar-testimonials img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.border-dark {
+  border-color: #000000;
+}
